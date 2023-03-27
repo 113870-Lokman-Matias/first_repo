@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Matías</h1>
-<h3 align="center">Desarrollador Web Fullstack de Córdoba, Argentinha</h3>
+<h3 align="center">Desarrollador Web Fullstack - Córdoba, Argentinha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=113870-lokman-matias&label=Profile%20views&color=0e75b6&style=flat" alt="113870-lokman-matias" /> </p>
 
